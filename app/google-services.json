@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656082240655",
+    "project_id": "level06task01",
+    "storage_bucket": "level06task01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656082240655:android:dc922d0b84df4af2d29cfa",
+        "android_client_info": {
+          "package_name": "nl.hva.task01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656082240655-kgnvc5ds76muf4ij557ubvh1q5rd7utr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1U5NgANYCJB-F1Uy2xhLJmySuOvu6tkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656082240655-kgnvc5ds76muf4ij557ubvh1q5rd7utr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
